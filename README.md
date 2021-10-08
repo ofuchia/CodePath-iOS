@@ -2,10 +2,6 @@
 
 Tip It! is a tip calculator application for iOS.
 
-Submitted by: Ofuchinyelu Akpom
-
-Time spent: 1 hours spent in total
-
 ## User Stories
 
 * [X] User can enter a bill amount, choose a tip percentage, and see the tip and total values.
