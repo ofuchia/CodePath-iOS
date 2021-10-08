@@ -1,4 +1,4 @@
-# Pre-work - Tip It!
+Tip It!
 
 Tip It! is a tip calculator application for iOS.
 
@@ -31,11 +31,9 @@ Here's a walkthrough of implemented user stories:
 ![](https://i.imgur.com/FtjP9QL.gif)
 
 
-GIF created with [LiceCap](http://www.cockos.com/licecap/).
-
 ## Notes
 
-Difficulties: Following along the tutorial was a bit difficult since my Xcode didn't match up 100%. Also, I am a PC user, so MAC in its entirety was new to me. But this was a fun experience.
+Difficulties: Following along the tutorial was a bit difficult since my Xcode didn't match up 100%. Also, I am a PC user, so Mac iOS in its entirety was new to me. But this was a fun experience.
 
 ## License
 
