@@ -1,4 +1,4 @@
-Tip It!
+# Tip It!
 
 Tip It! is a tip calculator application for iOS.
 
